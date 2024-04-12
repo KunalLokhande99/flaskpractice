@@ -1,3 +1,3 @@
-###      Flask Tutorial - Krish Naik 
+###       Flask Tutorial - Krish Naik 
 
-#### This is simple flask tutorials by Krish Naik 
+#### This is simple flask tutorial by Krish Naik 
